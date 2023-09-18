@@ -1,0 +1,27 @@
+{
+  "name": "touchscreen-note-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@use-gesture/react": "^10.3.0",
+    "next": "^13.4.19",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3",
+    "react-redux": "^8.1.2",
+    "react-swipeable": "^7.0.1",
+    "redux": "^4.2.1",
+    "redux-toolkit": "^1.1.2",
+    "uuid": "^9.0.1"
+  }
+}
